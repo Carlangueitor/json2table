@@ -1,5 +1,5 @@
 # json2table
-A tiny program to convert json to a nice table.
+A tiny cli tool to convert json to a nice table.
 
 ## Usage
 
